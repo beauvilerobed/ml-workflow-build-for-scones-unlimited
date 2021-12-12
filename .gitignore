@@ -132,3 +132,6 @@ dmypy.json
 .kaggle/
 AutogluonModels/
 cifar.tar.gz
+test/
+train/
+cifar-100-python/
