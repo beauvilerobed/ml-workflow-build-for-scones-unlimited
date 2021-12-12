@@ -131,3 +131,4 @@ dmypy.json
 #others
 .kaggle/
 AutogluonModels/
+cifar.tar.gz
