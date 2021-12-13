@@ -135,4 +135,4 @@ cifar.tar.gz
 test/
 train/
 cifar-100-python/
-my-sourcecode-function/
+classifyImage/
