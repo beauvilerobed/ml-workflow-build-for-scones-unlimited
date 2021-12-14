@@ -88,6 +88,8 @@ def lambda_handler(event, context):
     # Step Function, else, end the Step Function with an error
     if meets_threshold:
         pass
+    else:
+        raise("THRESHOLD_CONFIDENCE_NOT_MET")
 
     return {
         'statusCode': 200,
